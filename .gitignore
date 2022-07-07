@@ -1,0 +1,25 @@
+# General files to ignore.
+.DS_Store
+.DS_Store?
+*.DS_Store
+._*
+.AppleDouble
+.LSOverride
+
+# Icon must end with two
+Icon
+
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+ehthumbs.db
+Thumbs.db
+
+# Cache and log files
+*.odt#
